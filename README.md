@@ -1,1 +1,1 @@
-# Verilog code for Koggestone Adder and Reverse carry Propagation Full Adder
+# Verilog code for Hybrid Adder - Koggestone Adder and Reverse carry Propagation Full Adder
